@@ -1,0 +1,3 @@
+The first model: linear regression
+The second model: decision tree
+The third model: neural network
